@@ -1,6 +1,8 @@
 <br />
 <h1 align="center"> Really simple chat app written implemented React with Firebase database </h1>
-You can login via Google account and start chatting!
+
+
+<p align="center">You can login via Google account and start chatting! </p>
 
 1. Clone the repo
 ```sh
